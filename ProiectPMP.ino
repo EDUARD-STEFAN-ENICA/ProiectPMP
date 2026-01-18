@@ -1,6 +1,6 @@
 
 
-//Aceste valori sunt pentru intensitatea led-urilor si pot fi schimbate in intensitati mai mici sau mai mari
+//Aceste valori sunt pentru intensitatea led-urilor si pot fi schimbate cu intensitati mai mici sau mai mari
 #define ply1 255
 #define ply2 40
 
